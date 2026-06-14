@@ -1,0 +1,24 @@
+# Runtime results and logs
+nx220-checker-results/
+*.log
+*.out
+
+# Backup and temporary scripts
+*.backup*
+*.bak
+*.tmp
+
+# Draft documents
+*.docx
+*.doc
+~$*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python/cache files, if used during documentation work
+__pycache__/
+*.pyc
